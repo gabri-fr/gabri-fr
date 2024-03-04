@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Moises Gabriel,  I'm a Software Developer
+I'm Moises Gabriel,  I'm a Student and software developer
 
 [![Linkedin: Moisés](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/mois%C3%A9s-gabriel-2a393b211/)](https://www.linkedin.com/in/mois%C3%A9s-gabriel-2a393b211/)
 
